@@ -31,7 +31,7 @@ const  style = StyleSheet.create(
 
         },
         avatar: {
-            aspectRatio: 1, marginLeft: 10, flex: 1, borderRadius: 50, //borda redonda
+            aspectRatio: 1, marginLeft: 10, flex: 1, borderRadius: 50, 
         },
         lineText: {
             fontSize: 20, paddingLeft: 20, flex: 7
